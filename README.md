@@ -1,6 +1,6 @@
-# vite_js_react_stater_pack
+# React starter App
 
-Stater Pack for React.JS with Vite.
+Stater Pack for React.JS with Vite and commons tools
 
 ## Tools out of the box:
 
