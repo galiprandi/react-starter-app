@@ -1,17 +1,18 @@
-# vite_js_react_staterpack
+# vite_js_react_stater_pack
 
-stater pack for react with vite.js with features like eslint, react-testing-library and sass or scss out of the box
+Stater Pack for react w/Vite.js with features like eslint, react-testing-library and sass or scss out of the box
 
-```sh
+## Tools out of the box:
 
-git clone https://github.com/pranshushah/vite_js_react_staterpack.git app-name
+[ ] - Vite.js
 
-yarn install
+[ ] - Typescript
 
-```
+[ ] - ESLint
 
+[ ] - Sass
 
-useful commands.
+## Useful commands.
 
 ```sh
 
@@ -26,4 +27,4 @@ yarn serve // preview the app.
 
 ```
 
-for more details visit official [docs.](http://vitejs.dev/) 
+> Base on repo https://github.com/pranshushah/vite_js_react_staterpack.git
