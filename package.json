@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
     "serve": "vite preview",
     "test": "yarn run jest -env=jsdom",
-    "test:watch": "yarn run jest -env=jsdom --watch"
+    "test:watch": "yarn run jest -env=jsdom --watch",
+    "build": "vite build"
   },
   "dependencies": {
     "react": "^17.0.1",
