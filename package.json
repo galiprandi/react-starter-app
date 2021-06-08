@@ -1,5 +1,5 @@
 {
-  "name": "vite_stater_with_scss_react_testing_lib",
+  "name": "react-starter-app",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
