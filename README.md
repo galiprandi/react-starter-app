@@ -1,16 +1,16 @@
 # vite_js_react_stater_pack
 
-Stater Pack for react w/Vite.js with features like eslint, react-testing-library and sass or scss out of the box
+Stater Pack for React.JS with Vite.
 
 ## Tools out of the box:
 
-[ ] - Vite.js
+[x] - Vite.js
 
-[ ] - Typescript
+[x] - Typescript
 
-[ ] - ESLint
+[x] - ESLint
 
-[ ] - Sass
+[x] - Sass
 
 ## Useful commands.
 
@@ -18,11 +18,13 @@ Stater Pack for react w/Vite.js with features like eslint, react-testing-library
 
 yarn dev // development mode
 
-yarn build // final build
+yarn serve // preview the app.
 
 yarn test // for testing the app
 
-yarn serve // preview the app.
+yarn test:watch // for testing the app
+
+yarn build // final build
 
 
 ```
