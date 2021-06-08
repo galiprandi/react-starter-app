@@ -5,7 +5,8 @@
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
-    "test": "yarn run jest -env=jsdom"
+    "test": "yarn run jest -env=jsdom",
+    "test:watch": "yarn run jest -env=jsdom --watch"
   },
   "dependencies": {
     "react": "^17.0.1",
